@@ -1,2 +1,2 @@
 hanyang
-      university
+university
